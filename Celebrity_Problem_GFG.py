@@ -1,3 +1,8 @@
+#Problem link: https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1
+
+#Please try yourself first, before moving on to the solution.
+
+
 class Solution:
 
     #Function to find if there is a celebrity in the party or not.
