@@ -1,5 +1,7 @@
 //Problem video(use it for reference only): https://www.youtube.com/watch?v=g6OxU-hRGtY
+//Problem link: https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1
 
+//Solve it first before moving onto the solution
 
 //Initial Template for Java
 
