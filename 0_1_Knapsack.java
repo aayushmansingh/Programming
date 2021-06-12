@@ -1,3 +1,7 @@
+//Problem Link : https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
+
+//Please try to solve it yourself first before moving to the solution. It's good practice. :)
+
 import java.util.*;
 import java.io.*;
 import java.lang.*;
