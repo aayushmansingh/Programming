@@ -1,3 +1,6 @@
+#Problem Link: https://practice.geeksforgeeks.org/problems/magical-string3653/0/
+
+
 #User function Template for python3
 class Solution:
     def magicalString(ob, S):
